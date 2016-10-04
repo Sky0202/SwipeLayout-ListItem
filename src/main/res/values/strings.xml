@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SwipeLayoutDemo</string>
+    <item type="id" name="setTop" />
+    <item type="id" name="delete" />
+</resources>
